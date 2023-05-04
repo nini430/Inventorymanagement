@@ -1,0 +1,1602 @@
+[
+  {
+    "uuid": "3010a0e3-97c8-49d4-ab51-7d579fac115f",
+    "name": "Nl60o.GrQm",
+    "createdAt": "2022-09-16T15:35:12.062Z",
+    "updatedAt": "2022-10-20T13:45:51.636Z",
+    "price": 15439.43,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "cde0aa82-20ee-4a0c-9c1c-0f5d1265b317",
+    "name": "=*KiXZITj0",
+    "createdAt": "2022-08-04T21:43:59.563Z",
+    "updatedAt": "2023-02-18T03:15:27.447Z",
+    "price": 1497.56,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "916ddc86-dbf8-497f-83ee-63c6c4717079",
+    "name": "W>mEC3;4(%",
+    "createdAt": "2023-02-07T16:25:49.520Z",
+    "updatedAt": "2023-03-08T01:48:36.053Z",
+    "price": 67356.43,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "e466c8af-f813-46a8-a4c5-7dfd9fab1384",
+    "name": "?>5nG@09xo",
+    "createdAt": "2023-04-25T14:43:55.665Z",
+    "updatedAt": "2023-01-24T12:02:15.070Z",
+    "price": 31095.42,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "31a87d3e-0e05-4746-9451-3af66e9ff748",
+    "name": "X\\,DI%nJ,i",
+    "createdAt": "2022-10-28T19:08:16.888Z",
+    "updatedAt": "2023-04-05T04:25:19.468Z",
+    "price": 51107.44,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "13d073be-07ff-4df1-acc8-adbc51f19ca5",
+    "name": "K.+1\\Bi(nb",
+    "createdAt": "2022-12-23T22:29:33.424Z",
+    "updatedAt": "2022-09-18T17:07:17.494Z",
+    "price": 12273.38,
+    "location": "main_office"
+  },
+  {
+    "uuid": "cb24eb19-ca05-49c7-98c6-30130f9283b8",
+    "name": "{'&o`+!:oC",
+    "createdAt": "2022-05-04T22:14:38.083Z",
+    "updatedAt": "2023-04-09T21:19:28.639Z",
+    "price": 99651.06,
+    "location": "main_office"
+  },
+  {
+    "uuid": "6c6feb78-32c7-42c3-950b-a2cac75f57f1",
+    "name": "!F#]O(vBI`",
+    "createdAt": "2023-01-07T15:43:49.770Z",
+    "updatedAt": "2023-01-16T02:03:20.705Z",
+    "price": 32005.99,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "54b832ad-854c-445c-b673-4d3cd554a9c1",
+    "name": "@s;6(og*`9",
+    "createdAt": "2022-10-29T17:19:21.269Z",
+    "updatedAt": "2023-01-06T07:46:17.420Z",
+    "price": 35952.55,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "6cea99b4-9230-41ff-a6a6-fcfa539e24c8",
+    "name": "Ey+7WoTA5v",
+    "createdAt": "2022-08-19T15:23:08.218Z",
+    "updatedAt": "2023-03-19T13:04:12.629Z",
+    "price": 46156.3,
+    "location": "main_office"
+  },
+  {
+    "uuid": "41a97b0c-c818-4377-9bda-ac3a55266100",
+    "name": "z\"JmU\".t:m",
+    "createdAt": "2023-02-19T17:28:34.182Z",
+    "updatedAt": "2022-09-11T05:54:53.672Z",
+    "price": 84309.49,
+    "location": "main_office"
+  },
+  {
+    "uuid": "e953250b-90a3-4885-978a-5711aa84080e",
+    "name": "gRo=xX6I5O",
+    "createdAt": "2022-09-19T07:58:59.902Z",
+    "updatedAt": "2023-04-13T22:56:24.786Z",
+    "price": 29000.23,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "198e9bcd-0821-4c77-ba37-869b8b2554c6",
+    "name": "aMuAG+Zuy.",
+    "createdAt": "2022-11-06T20:32:02.884Z",
+    "updatedAt": "2023-04-05T05:10:24.811Z",
+    "price": 43608.5,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "09cbefd8-7ac7-4f61-91c4-15504f7ad043",
+    "name": ":`#bk'Xb`w",
+    "createdAt": "2023-02-12T02:50:15.858Z",
+    "updatedAt": "2022-08-11T08:12:34.615Z",
+    "price": 30909.42,
+    "location": "main_office"
+  },
+  {
+    "uuid": "113c4a93-ada3-4d13-bfeb-ebb845702419",
+    "name": "O6BP*@\\&+f",
+    "createdAt": "2022-05-23T10:30:04.722Z",
+    "updatedAt": "2022-11-29T07:18:10.481Z",
+    "price": 47979.56,
+    "location": "main_office"
+  },
+  {
+    "uuid": "e76d35b6-55da-48c9-9609-70575848ff8c",
+    "name": "sSpt]Q;+Lb",
+    "createdAt": "2022-09-10T12:22:43.341Z",
+    "updatedAt": "2022-08-30T12:26:57.119Z",
+    "price": 25839.46,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "1683c93d-137c-4d40-b1c5-73431cb8c503",
+    "name": "`R}4P8\\z}\\",
+    "createdAt": "2022-10-01T18:40:08.005Z",
+    "updatedAt": "2022-08-30T19:48:53.495Z",
+    "price": 44695.81,
+    "location": "main_office"
+  },
+  {
+    "uuid": "aa2668e8-732c-4317-bf94-6a920aece3bc",
+    "name": "B`iQUUmgOr",
+    "createdAt": "2022-11-28T02:38:30.107Z",
+    "updatedAt": "2023-01-17T14:06:04.236Z",
+    "price": 44610.45,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "a8e023ac-a3d0-48f0-8761-7fa666fa3f0a",
+    "name": "\\=rre(2iwx",
+    "createdAt": "2023-03-29T07:34:15.859Z",
+    "updatedAt": "2023-03-04T14:29:46.035Z",
+    "price": 12854.11,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "59c61cf5-ff2e-434f-80b4-fc6c55e0f696",
+    "name": "H&%i{{lc>!",
+    "createdAt": "2022-07-27T18:29:32.217Z",
+    "updatedAt": "2022-06-06T11:13:36.736Z",
+    "price": 96284,
+    "location": "main_office"
+  },
+  {
+    "uuid": "e043bf8f-a459-424f-bc8c-299065d857dd",
+    "name": "&uhg-r!|0^",
+    "createdAt": "2023-02-07T07:06:35.278Z",
+    "updatedAt": "2022-09-18T16:53:46.130Z",
+    "price": 4056.75,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "63e65aa1-df68-4b82-8797-eb643eb568c3",
+    "name": "TL7:+5x\"4M",
+    "createdAt": "2022-07-24T05:19:28.942Z",
+    "updatedAt": "2023-01-13T23:21:45.389Z",
+    "price": 85159.84,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "9c7bdf6c-bf59-4f77-b10e-16de59fd06db",
+    "name": "{K@D'FM8m<",
+    "createdAt": "2022-07-23T18:24:03.562Z",
+    "updatedAt": "2023-02-17T23:41:54.758Z",
+    "price": 63338.25,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "28625b29-3ee8-4cb0-bee6-cfaadda6c7f8",
+    "name": "%WvK%W9BI;",
+    "createdAt": "2022-12-15T13:35:36.462Z",
+    "updatedAt": "2023-01-14T00:35:59.865Z",
+    "price": 66308.78,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "a0591708-fe4a-43de-96fc-cebd4f888948",
+    "name": "wf%umt1BYB",
+    "createdAt": "2022-12-29T06:37:30.226Z",
+    "updatedAt": "2023-04-13T00:14:56.959Z",
+    "price": 52786.32,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "8107b3fd-cc12-4797-b07a-3a9508e4a711",
+    "name": "'-&pLYz3t}",
+    "createdAt": "2022-07-01T17:19:17.620Z",
+    "updatedAt": "2022-05-17T01:02:51.010Z",
+    "price": 38533.59,
+    "location": "main_office"
+  },
+  {
+    "uuid": "13d0535a-fbfe-4c0a-b26e-b78458c063b3",
+    "name": "a4]Ta5ck\"_",
+    "createdAt": "2022-07-27T05:03:36.362Z",
+    "updatedAt": "2022-12-26T15:08:17.977Z",
+    "price": 83636.3,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "d6a50f21-9ed6-43a7-a3e9-eca846f8e3e2",
+    "name": "lN?\\X])8uw",
+    "createdAt": "2023-01-08T22:21:40.370Z",
+    "updatedAt": "2023-01-07T01:41:59.107Z",
+    "price": 20944.93,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "c1d91897-1328-4598-9e98-f2607bd3beab",
+    "name": "=U=p^AgD7N",
+    "createdAt": "2022-05-26T02:57:32.328Z",
+    "updatedAt": "2022-08-08T16:39:46.714Z",
+    "price": 30858.52,
+    "location": "main_office"
+  },
+  {
+    "uuid": "3b2b5116-5f5f-4d2e-a9b5-3da922552cf0",
+    "name": "lw;GQj/Md'",
+    "createdAt": "2022-05-19T19:16:18.478Z",
+    "updatedAt": "2022-08-04T10:59:57.081Z",
+    "price": 67902.46,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "014a09bf-49b1-4084-8168-f63489797691",
+    "name": "pF=Wl82]Wq",
+    "createdAt": "2022-05-21T09:45:09.057Z",
+    "updatedAt": "2023-04-12T00:13:35.524Z",
+    "price": 52893.89,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "e7772778-bbc1-457a-b118-68c250777b9b",
+    "name": "6aU8>GZq\"P",
+    "createdAt": "2023-01-01T04:39:34.053Z",
+    "updatedAt": "2022-12-22T04:23:38.469Z",
+    "price": 99419.64,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "0d570534-ce84-46fa-817f-1b56c7198d78",
+    "name": "I:.l|jNpNM",
+    "createdAt": "2022-07-17T05:30:26.836Z",
+    "updatedAt": "2022-12-08T02:05:56.539Z",
+    "price": 32157.51,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "bd1efba8-090c-47f9-9b00-f24bafb5e1d3",
+    "name": "XaMeg,1U-`",
+    "createdAt": "2022-09-05T22:36:52.596Z",
+    "updatedAt": "2022-11-25T23:20:57.992Z",
+    "price": 12085.74,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "f6af56e5-2675-4549-aab0-3fa9aff080a8",
+    "name": "7J4I;?9jwX",
+    "createdAt": "2023-03-14T19:05:52.545Z",
+    "updatedAt": "2023-01-07T04:22:20.237Z",
+    "price": 11579.72,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "09f85a9d-cb05-4d89-9711-ac65ce1fbe74",
+    "name": "Zmzj&PLJgM",
+    "createdAt": "2023-04-26T23:11:12.131Z",
+    "updatedAt": "2022-11-10T05:55:49.184Z",
+    "price": 69049.48,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "a60e27e7-13df-49aa-b58d-b79c676f5a31",
+    "name": "QW3K>?H3oV",
+    "createdAt": "2022-10-21T22:18:11.137Z",
+    "updatedAt": "2022-06-18T10:42:30.722Z",
+    "price": 39098.88,
+    "location": "main_office"
+  },
+  {
+    "uuid": "231c7b78-37b1-4293-a7a3-9dd4b90ec3a0",
+    "name": "tt*-4kE<iU",
+    "createdAt": "2022-08-21T08:55:16.058Z",
+    "updatedAt": "2022-06-06T13:41:55.596Z",
+    "price": 72211.87,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "ced07e23-5b3d-4713-8e91-f3496da96c64",
+    "name": "!F$ZI>C6BM",
+    "createdAt": "2022-09-26T23:48:34.881Z",
+    "updatedAt": "2022-10-05T11:22:09.716Z",
+    "price": 61807.37,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "104aadcd-a196-432b-9a5d-2e0fe4f6d91c",
+    "name": "<Nsxw'cXQ{",
+    "createdAt": "2022-05-21T01:21:20.494Z",
+    "updatedAt": "2023-04-08T02:26:04.125Z",
+    "price": 6929.42,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "ffa46517-34ec-474d-b2ca-e40be0755cb4",
+    "name": "Kv;cu[hWU*",
+    "createdAt": "2022-10-19T18:12:37.143Z",
+    "updatedAt": "2022-11-16T13:32:18.080Z",
+    "price": 79696.5,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "fa2dd9ca-53fb-47d6-b599-bac13f1c4f79",
+    "name": "Xvz$YDZjni",
+    "createdAt": "2022-05-08T10:59:25.893Z",
+    "updatedAt": "2022-08-21T01:49:23.558Z",
+    "price": 34551.21,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "dfda3192-e2aa-4c3b-94eb-55dbf2bc0cbc",
+    "name": "4v>2?n;(6+",
+    "createdAt": "2022-09-26T03:58:38.279Z",
+    "updatedAt": "2023-01-04T11:53:47.722Z",
+    "price": 82934.57,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "c0369166-2da6-4e5f-8969-c235f7f0b43a",
+    "name": "grgc')=f@1",
+    "createdAt": "2023-04-19T22:55:22.785Z",
+    "updatedAt": "2022-12-05T02:21:03.200Z",
+    "price": 36188.18,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "c2a9bdb8-09d5-47a6-8788-29fee85f223f",
+    "name": "$7gHNbaPB|",
+    "createdAt": "2022-09-07T08:21:25.176Z",
+    "updatedAt": "2023-04-02T08:27:20.816Z",
+    "price": 81807.78,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "570a5f63-74cd-4548-8b9e-c30c01b3df26",
+    "name": "yLSBvV22W_",
+    "createdAt": "2022-05-27T01:53:38.945Z",
+    "updatedAt": "2022-09-16T00:38:19.330Z",
+    "price": 78590.44,
+    "location": "main_office"
+  },
+  {
+    "uuid": "2100821c-c04c-4b24-8d01-2c662cbe674f",
+    "name": "wLA_'p(NeR",
+    "createdAt": "2022-12-03T03:59:03.277Z",
+    "updatedAt": "2022-07-13T03:57:42.587Z",
+    "price": 45309.49,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "a5e490f2-40c3-4c33-a75e-e71d7f2372aa",
+    "name": "epp0`kWy2S",
+    "createdAt": "2023-03-30T21:36:59.868Z",
+    "updatedAt": "2022-10-29T01:05:47.944Z",
+    "price": 26414.69,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "dce27c91-bb15-4118-96bb-de81ea763afe",
+    "name": "7`gt/#ru!B",
+    "createdAt": "2022-11-17T22:36:49.592Z",
+    "updatedAt": "2023-04-02T22:15:49.257Z",
+    "price": 8694.32,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "e833fdab-8646-40fb-951f-3d9dcfe793b5",
+    "name": "l,M?qyARLM",
+    "createdAt": "2023-02-15T18:23:54.432Z",
+    "updatedAt": "2022-06-23T15:16:23.186Z",
+    "price": 23442.53,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "021f8b4f-faed-4524-872e-b4c6fba01f93",
+    "name": "C6Jl1\\h++&",
+    "createdAt": "2022-05-25T18:02:30.120Z",
+    "updatedAt": "2022-09-13T14:15:34.903Z",
+    "price": 81632.66,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "09c9e056-7940-41b4-878c-1dee5c7f69c5",
+    "name": "b4N1{'-I\"B",
+    "createdAt": "2022-07-26T02:11:38.446Z",
+    "updatedAt": "2022-07-20T08:28:04.717Z",
+    "price": 85362.99,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "5510bfce-d18a-4a92-921a-230ec6a25cda",
+    "name": "pl}2Z\"mmW$",
+    "createdAt": "2022-11-18T00:47:38.016Z",
+    "updatedAt": "2023-02-07T09:24:04.409Z",
+    "price": 59504.89,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "de982458-83f3-43ff-9d79-e81496e68a62",
+    "name": "hg'N_j`Np7",
+    "createdAt": "2022-11-02T11:36:51.434Z",
+    "updatedAt": "2022-06-12T08:02:21.672Z",
+    "price": 86637.15,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "710a3cd6-46cf-48cc-865c-1e73a03128f7",
+    "name": "DA`CeYmNdw",
+    "createdAt": "2023-04-24T19:15:32.421Z",
+    "updatedAt": "2022-12-25T15:53:21.735Z",
+    "price": 55852.3,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "df93c8bf-8d41-4070-b2e5-4c9e6570ea29",
+    "name": "FaZkS.m&b4",
+    "createdAt": "2022-07-31T04:36:32.354Z",
+    "updatedAt": "2023-04-28T00:17:24.766Z",
+    "price": 54918.76,
+    "location": "main_office"
+  },
+  {
+    "uuid": "0d2aa853-2593-4624-b54f-216057a1a786",
+    "name": "H]ywa=>]TH",
+    "createdAt": "2022-11-09T03:57:54.974Z",
+    "updatedAt": "2022-11-08T20:18:06.808Z",
+    "price": 82254.68,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "87d92ff8-197e-4a62-9de5-1d8ef0f27d98",
+    "name": "u8%:'eDIml",
+    "createdAt": "2022-07-11T01:28:43.936Z",
+    "updatedAt": "2023-01-12T15:02:10.931Z",
+    "price": 57357.1,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "28937643-973e-4275-9126-51468cfbd9ec",
+    "name": "9Jh.=m@JKz",
+    "createdAt": "2022-10-14T18:00:54.732Z",
+    "updatedAt": "2022-07-01T01:51:06.937Z",
+    "price": 14207.81,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "8a739e49-c7e0-42b5-a7bd-db3f702452d1",
+    "name": "I(k!X*+;qn",
+    "createdAt": "2023-04-03T07:09:52.206Z",
+    "updatedAt": "2023-04-29T17:14:18.083Z",
+    "price": 74664.92,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "9a598ac1-44d2-4f7a-9d9f-c174ced7c5a9",
+    "name": "dsf_I$KW\\e",
+    "createdAt": "2023-02-24T09:10:18.414Z",
+    "updatedAt": "2023-04-18T19:49:32.030Z",
+    "price": 7038.84,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "6fdebb83-ae89-4275-afba-9f372e8e08b3",
+    "name": "CZwK0Plg.0",
+    "createdAt": "2022-10-09T03:57:24.694Z",
+    "updatedAt": "2022-12-28T16:06:56.275Z",
+    "price": 75593.19,
+    "location": "main_office"
+  },
+  {
+    "uuid": "0590418e-dc31-4e69-b570-b29ce357d164",
+    "name": "(40xHLu\"i@",
+    "createdAt": "2022-12-11T01:38:37.830Z",
+    "updatedAt": "2023-02-26T00:47:07.964Z",
+    "price": 66045.81,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "81e27ac4-20f9-4ccc-afba-fa061b8fad7d",
+    "name": "-Qy%f/H0hB",
+    "createdAt": "2022-05-10T05:06:10.277Z",
+    "updatedAt": "2023-04-19T12:21:31.910Z",
+    "price": 91776.1,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "e82ad7da-5d9c-42c2-a616-5ea358b4ecae",
+    "name": "n4en//SAO:",
+    "createdAt": "2022-07-30T07:42:58.622Z",
+    "updatedAt": "2022-07-16T00:39:25.265Z",
+    "price": 7957.52,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "3b3fadb8-b6f7-425a-ac0d-e6b03f01bf04",
+    "name": "W44Z:pEdYc",
+    "createdAt": "2023-03-14T08:17:45.817Z",
+    "updatedAt": "2022-08-17T19:30:57.378Z",
+    "price": 41862.17,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "7e2410a2-87cd-4c57-b362-474069772b41",
+    "name": "ZL3re)1K4I",
+    "createdAt": "2022-06-20T02:40:00.588Z",
+    "updatedAt": "2023-03-30T22:40:14.503Z",
+    "price": 90545.51,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "9ab151ed-b75e-460b-97b4-034d668c9e99",
+    "name": "4A25^,C{MI",
+    "createdAt": "2023-01-07T03:58:27.205Z",
+    "updatedAt": "2022-07-14T00:12:30.350Z",
+    "price": 80650.78,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "2dbcf7ed-a36d-4b52-bc5e-2e6ab3569a2c",
+    "name": "^T!PRYu.$G",
+    "createdAt": "2022-07-13T06:49:19.544Z",
+    "updatedAt": "2022-12-05T23:02:26.701Z",
+    "price": 16855.05,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "c4c9c97b-77af-40bb-8949-3c363870ce82",
+    "name": "s`<kw'$w)g",
+    "createdAt": "2022-07-25T19:48:30.572Z",
+    "updatedAt": "2022-10-04T18:10:09.196Z",
+    "price": 50823.06,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "3934e11f-0b07-4f81-8fd7-a9204a017053",
+    "name": "%0@ncvf6He",
+    "createdAt": "2023-04-12T22:37:05.330Z",
+    "updatedAt": "2023-03-18T00:59:06.441Z",
+    "price": 79597.23,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "2c5e78b1-b9e6-48a6-a079-4cfdf2add31b",
+    "name": "#|39TiXrV5",
+    "createdAt": "2022-06-14T02:39:27.876Z",
+    "updatedAt": "2022-06-14T00:48:41.902Z",
+    "price": 7288.42,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "bdc2d7b5-1c38-4512-a4ab-1d40f9b2f7b6",
+    "name": "&26)G]R'x5",
+    "createdAt": "2022-06-10T15:39:07.936Z",
+    "updatedAt": "2022-12-02T13:46:24.830Z",
+    "price": 7173.91,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "a651cd90-a68d-4a2f-b8f8-64d25ff8cd55",
+    "name": "rwhR\"f3!XA",
+    "createdAt": "2022-06-17T19:10:09.393Z",
+    "updatedAt": "2023-01-01T13:37:21.433Z",
+    "price": 48739.13,
+    "location": "main_office"
+  },
+  {
+    "uuid": "1f767831-4e43-4cde-a9f1-312d93da18a9",
+    "name": "$$M:r(xBm.",
+    "createdAt": "2022-11-09T12:26:04.608Z",
+    "updatedAt": "2022-08-23T21:06:30.328Z",
+    "price": 16180.79,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "d095dbc6-81af-4689-8fc0-ef12949b1b25",
+    "name": "|(69!r6c&G",
+    "createdAt": "2022-11-25T02:45:10.662Z",
+    "updatedAt": "2023-04-11T12:19:05.186Z",
+    "price": 98772.22,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "8b0c3b95-56c5-4705-b050-a8882de9a54b",
+    "name": "6c-^Hb[+S@",
+    "createdAt": "2022-07-22T14:02:36.487Z",
+    "updatedAt": "2023-02-04T06:13:39.165Z",
+    "price": 90320.68,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "35a9f8ae-5239-4234-8f2c-b4927c3afcd4",
+    "name": "+X\\0oPSdQm",
+    "createdAt": "2023-01-18T04:22:57.320Z",
+    "updatedAt": "2022-11-01T02:32:48.041Z",
+    "price": 5837.11,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "1117437f-1eb3-4f97-a940-e613232a72db",
+    "name": "#E#!>*-:9T",
+    "createdAt": "2022-08-09T00:11:02.877Z",
+    "updatedAt": "2023-02-27T23:29:28.120Z",
+    "price": 75869.7,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "8b173ef8-e1e1-4b92-84eb-e9a56b51b6a2",
+    "name": "N2oM-S0]>d",
+    "createdAt": "2022-09-20T16:25:52.510Z",
+    "updatedAt": "2023-01-03T08:58:05.063Z",
+    "price": 76076.04,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "1d8e355e-672b-46f8-a68a-9f740a061821",
+    "name": "+D6l&Obl@W",
+    "createdAt": "2023-01-27T22:23:07.823Z",
+    "updatedAt": "2023-02-24T14:42:40.376Z",
+    "price": 28204.48,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "5f9fcf5c-fd81-47c8-be30-aecf9eeb34ed",
+    "name": "l{y0eV-Lom",
+    "createdAt": "2023-02-22T04:24:45.607Z",
+    "updatedAt": "2022-06-05T15:29:53.076Z",
+    "price": 52291.41,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "ba41529c-daf0-4604-9967-e43480e85dbf",
+    "name": ".;62`j)nI+",
+    "createdAt": "2022-06-02T00:09:12.881Z",
+    "updatedAt": "2022-10-25T21:27:59.972Z",
+    "price": 239.98,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "6483b0f1-fbee-47b2-a243-2d7fdd453df3",
+    "name": "v>+NL.G^aJ",
+    "createdAt": "2022-08-13T04:53:06.942Z",
+    "updatedAt": "2022-07-15T05:42:46.450Z",
+    "price": 35415.25,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "1dcdf216-8b02-4571-a34f-79fc4f8ed1be",
+    "name": "e!{[Cgh_Q3",
+    "createdAt": "2022-07-18T05:06:35.862Z",
+    "updatedAt": "2023-05-03T02:53:06.381Z",
+    "price": 92216.08,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "10d7576a-798f-47e7-ae3b-f3d4eceadfa4",
+    "name": "saU.z[9y6f",
+    "createdAt": "2023-01-06T11:55:11.508Z",
+    "updatedAt": "2022-10-05T06:01:14.319Z",
+    "price": 72488.13,
+    "location": "main_office"
+  },
+  {
+    "uuid": "189817c0-7a51-40b8-8aac-df1e8173f572",
+    "name": "#=Z_Lhi\"XQ",
+    "createdAt": "2022-10-29T01:27:11.219Z",
+    "updatedAt": "2022-07-03T23:58:18.695Z",
+    "price": 57583.44,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "8d98b5a9-765b-4bc5-9ff1-fc3ceebea76e",
+    "name": "$5i,3)&U;M",
+    "createdAt": "2023-04-21T09:16:31.684Z",
+    "updatedAt": "2022-10-14T12:37:20.512Z",
+    "price": 87452.99,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "b7322d8b-ae61-473d-8068-85f2c5f19024",
+    "name": "Sa,K5q$M#1",
+    "createdAt": "2022-09-04T21:59:28.969Z",
+    "updatedAt": "2022-12-16T19:28:43.522Z",
+    "price": 67380.87,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "4180c87f-6562-4161-bc31-3e44c3ac4aa7",
+    "name": "w1;<j6@;#I",
+    "createdAt": "2023-01-26T03:07:19.238Z",
+    "updatedAt": "2022-07-10T23:55:16.594Z",
+    "price": 51947.33,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "21151a59-f975-48ca-ad88-ada937c156f0",
+    "name": "4yPukMC[fK",
+    "createdAt": "2022-11-25T15:56:32.346Z",
+    "updatedAt": "2023-02-16T12:18:23.456Z",
+    "price": 49873.08,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "d09e24c8-f5cf-4382-af3e-4fb4c17fc829",
+    "name": "@]cgu${jOp",
+    "createdAt": "2023-03-03T06:21:50.045Z",
+    "updatedAt": "2022-11-11T12:51:57.341Z",
+    "price": 30242.2,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "f66c4300-4afe-4cbc-9a74-3a680cd2992b",
+    "name": "LXKHF|Mb|@",
+    "createdAt": "2022-12-01T15:55:16.997Z",
+    "updatedAt": "2023-03-31T17:58:51.580Z",
+    "price": 1834.96,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "27fb23a9-f05c-45fe-ae2d-04a7d77c12d3",
+    "name": "SB&#=D167s",
+    "createdAt": "2022-10-25T09:36:13.293Z",
+    "updatedAt": "2023-03-03T07:42:20.504Z",
+    "price": 72414.61,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "76f7175a-1567-4c13-b4fd-2f4681168d85",
+    "name": "3fLY7,S^F?",
+    "createdAt": "2023-01-22T15:48:15.384Z",
+    "updatedAt": "2023-01-01T16:50:52.890Z",
+    "price": 26980.29,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "7ef7c4bb-0933-4933-8125-0c4e3720a2fa",
+    "name": "yma}!&lWln",
+    "createdAt": "2022-09-11T15:51:06.864Z",
+    "updatedAt": "2022-12-30T06:04:08.392Z",
+    "price": 3374.43,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "548d145c-27c4-45a1-bebe-2ef766224df4",
+    "name": "&r$*}o',#L",
+    "createdAt": "2022-08-13T18:10:45.750Z",
+    "updatedAt": "2022-11-10T20:43:38.703Z",
+    "price": 73082.06,
+    "location": "main_office"
+  },
+  {
+    "uuid": "5acebfcf-4015-40f8-87dc-a4865a332c8b",
+    "name": "_i^ZmfF;J/",
+    "createdAt": "2023-01-25T18:16:51.646Z",
+    "updatedAt": "2023-03-07T10:04:27.363Z",
+    "price": 38408.32,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "eb600bc1-675f-4dda-b6b7-0cc8165db6cc",
+    "name": "uChte-Z.-]",
+    "createdAt": "2022-09-15T11:46:06.984Z",
+    "updatedAt": "2023-04-17T21:43:31.566Z",
+    "price": 28193.63,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "61ef0517-76ca-437d-a039-e9a0f9acaeb3",
+    "name": "dngqpzs*oe",
+    "createdAt": "2022-05-19T15:39:12.747Z",
+    "updatedAt": "2023-03-12T19:30:06.239Z",
+    "price": 73106.86,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "54308a01-9e18-42e6-bab1-1820fba9054d",
+    "name": "KQRmf{jrnc",
+    "createdAt": "2023-01-27T00:47:05.286Z",
+    "updatedAt": "2023-03-27T18:13:02.691Z",
+    "price": 14443.66,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "d3338ce3-4c4f-4420-8ee0-477bcf424959",
+    "name": "p$zjY-Wo^]",
+    "createdAt": "2022-05-18T14:35:53.762Z",
+    "updatedAt": "2023-04-13T06:17:08.155Z",
+    "price": 98947.77,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "a18317c3-3551-473f-88a6-b303d6bbc302",
+    "name": ".lpI6;xAvP",
+    "createdAt": "2022-07-22T07:59:08.779Z",
+    "updatedAt": "2023-04-29T14:47:00.871Z",
+    "price": 53969.68,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "037c082e-d06f-493a-9645-bf454b457de3",
+    "name": "a@dY.@yCSt",
+    "createdAt": "2023-02-24T09:05:23.417Z",
+    "updatedAt": "2023-02-23T17:20:31.047Z",
+    "price": 19159.75,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "38f2be1e-5724-4c0d-8c92-6fcbef71a094",
+    "name": "tovUV)r{|}",
+    "createdAt": "2023-03-22T15:09:29.845Z",
+    "updatedAt": "2022-06-08T06:27:36.961Z",
+    "price": 56288.68,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "6952909a-54e2-4abb-ab12-f44867297ed1",
+    "name": "ugmPj=EgQm",
+    "createdAt": "2022-05-05T03:49:35.373Z",
+    "updatedAt": "2022-12-09T16:51:16.485Z",
+    "price": 87137.3,
+    "location": "main_office"
+  },
+  {
+    "uuid": "4adfd6ba-cec7-4ea3-af6b-199e24338a8e",
+    "name": "Cde%tD5KEl",
+    "createdAt": "2022-09-05T12:21:35.685Z",
+    "updatedAt": "2023-03-22T09:36:56.289Z",
+    "price": 97353.71,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "5c2dfdd0-6ea4-4f34-a1a3-cfa7d76b250b",
+    "name": "`?xLEr-La;",
+    "createdAt": "2023-02-06T03:20:22.493Z",
+    "updatedAt": "2022-10-27T06:39:10.212Z",
+    "price": 45546.87,
+    "location": "main_office"
+  },
+  {
+    "uuid": "77110870-9ba3-4e1c-b493-2a5e053f9d3a",
+    "name": "#.F#}`Y-2u",
+    "createdAt": "2022-05-14T11:05:31.517Z",
+    "updatedAt": "2022-11-21T13:44:50.393Z",
+    "price": 19824.62,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "b7a327e2-a403-47d6-be58-7b71589c7049",
+    "name": "u:;|-$BkE|",
+    "createdAt": "2022-10-25T11:35:45.136Z",
+    "updatedAt": "2023-03-02T20:27:16.177Z",
+    "price": 44956.18,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "bb79905e-a3d8-4c8f-89f1-ecb1c5285261",
+    "name": "o19Lp@Zf<u",
+    "createdAt": "2022-06-13T16:26:53.264Z",
+    "updatedAt": "2022-05-27T19:36:14.226Z",
+    "price": 78315.78,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "c3e76543-e15d-425a-b290-83acd17bc0d1",
+    "name": ";#mBE<E_Tf",
+    "createdAt": "2022-09-29T06:10:10.319Z",
+    "updatedAt": "2022-09-29T19:29:28.348Z",
+    "price": 23157.78,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "b13beef6-e696-4d67-8500-39d4ab94d95c",
+    "name": "gmXNu[+x|Q",
+    "createdAt": "2022-12-04T11:09:32.049Z",
+    "updatedAt": "2023-03-26T22:32:41.518Z",
+    "price": 90166.54,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "28d6e58d-14c0-4a4c-b432-6bcb27afb13e",
+    "name": "-'{fq/91tS",
+    "createdAt": "2022-07-15T04:28:06.614Z",
+    "updatedAt": "2022-08-03T18:27:45.693Z",
+    "price": 18739.64,
+    "location": "main_office"
+  },
+  {
+    "uuid": "22f8e937-47ef-4acb-ac94-99d864f103e3",
+    "name": "J\\%<RC>O\"T",
+    "createdAt": "2022-07-08T22:23:56.073Z",
+    "updatedAt": "2022-05-13T21:04:22.267Z",
+    "price": 11971.01,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "c0c5d885-0abb-4f82-9e43-f39f41e1601a",
+    "name": "*O[*H:]B6<",
+    "createdAt": "2022-09-14T08:08:52.214Z",
+    "updatedAt": "2022-06-10T17:41:53.358Z",
+    "price": 26054.56,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "f9454912-913f-4704-a1d6-1fe5ebb238b4",
+    "name": "<XPBGU#K}p",
+    "createdAt": "2023-04-04T16:51:46.191Z",
+    "updatedAt": "2022-09-23T05:53:55.674Z",
+    "price": 36726.21,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "52f66f10-3b4a-448f-a6bb-e3710a7da72b",
+    "name": "AQZ>)sG3:(",
+    "createdAt": "2022-10-19T23:29:50.346Z",
+    "updatedAt": "2022-07-31T23:01:08.907Z",
+    "price": 67314.43,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "8e5a9650-f2da-4509-a78d-6ca261ef17fa",
+    "name": "D7Q\"IHTtpp",
+    "createdAt": "2023-01-17T04:22:11.136Z",
+    "updatedAt": "2023-04-04T13:55:47.066Z",
+    "price": 15431.17,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "6d86d07a-4aaa-4413-b61d-b7b08eb60670",
+    "name": "2@szr(,$E@",
+    "createdAt": "2022-10-31T12:55:12.172Z",
+    "updatedAt": "2023-03-09T18:15:20.306Z",
+    "price": 99593.05,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "e85d3498-eb4e-4f97-aaec-3ee9bfc6c4ca",
+    "name": "-(!NP@\"QI`",
+    "createdAt": "2022-12-16T20:46:29.528Z",
+    "updatedAt": "2022-05-28T08:50:33.993Z",
+    "price": 21928.56,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "857c3416-3c93-45fe-a3c9-cf1983fdc10a",
+    "name": "R6[!DYuYI#",
+    "createdAt": "2022-06-18T22:01:35.430Z",
+    "updatedAt": "2022-09-21T22:04:26.947Z",
+    "price": 34089.07,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "2112e70b-8b5b-4a92-8f27-cb057d14ac26",
+    "name": "_2Fa}43-}$",
+    "createdAt": "2023-03-11T12:00:09.648Z",
+    "updatedAt": "2023-01-16T12:10:35.506Z",
+    "price": 30744.8,
+    "location": "main_office"
+  },
+  {
+    "uuid": "3ff1114f-6cb9-45cb-98d5-7178eb0ee11a",
+    "name": "0t0T*r[WrD",
+    "createdAt": "2022-10-01T15:53:45.858Z",
+    "updatedAt": "2022-06-22T22:48:07.421Z",
+    "price": 26842.72,
+    "location": "main_office"
+  },
+  {
+    "uuid": "2f78f04d-909f-4a9c-9457-f0f657f5d823",
+    "name": "]!\"2$w*?$>",
+    "createdAt": "2022-10-01T20:26:35.906Z",
+    "updatedAt": "2023-01-28T06:05:27.503Z",
+    "price": 27182.67,
+    "location": "main_office"
+  },
+  {
+    "uuid": "c9bbf9e4-048d-4592-ada2-3ab70bd66b24",
+    "name": ":QD_8#5s4D",
+    "createdAt": "2023-01-05T11:03:32.984Z",
+    "updatedAt": "2022-05-26T16:52:19.650Z",
+    "price": 74383.8,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "b1e251e0-eb61-4293-bacb-ce98e8fcf422",
+    "name": "g0h&!}}X+{",
+    "createdAt": "2022-10-01T09:44:25.186Z",
+    "updatedAt": "2023-04-05T16:50:34.745Z",
+    "price": 43951.55,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "3955fcb6-cbd0-452a-a7a2-94dc012ac170",
+    "name": "3D^_v$74@>",
+    "createdAt": "2022-08-24T15:05:18.923Z",
+    "updatedAt": "2022-05-12T12:52:52.527Z",
+    "price": 20049.29,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "0c744c72-61d4-4e24-a04d-28a1109b52e3",
+    "name": "e@$OWd^Kd)",
+    "createdAt": "2023-02-26T14:11:46.911Z",
+    "updatedAt": "2023-03-08T12:55:59.425Z",
+    "price": 62265.24,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "eaafbf7e-c6b4-46e5-8500-2111ba370e20",
+    "name": "<f>K\\L==ZI",
+    "createdAt": "2022-07-22T07:45:49.359Z",
+    "updatedAt": "2022-10-25T16:56:56.734Z",
+    "price": 84360.74,
+    "location": "main_office"
+  },
+  {
+    "uuid": "9437827d-62b6-475b-8ed8-f4d4595ea276",
+    "name": ":;[*nA[;_Q",
+    "createdAt": "2022-06-30T10:16:01.326Z",
+    "updatedAt": "2022-05-19T11:37:29.455Z",
+    "price": 98576.65,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "6362648c-77f6-4016-be26-9ebf9632ca00",
+    "name": "\"m!'G^6Ud2",
+    "createdAt": "2022-09-17T19:05:57.673Z",
+    "updatedAt": "2022-08-26T21:30:54.305Z",
+    "price": 31957.86,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "69bb80e3-ff49-47e0-ac4e-093d801b6a1d",
+    "name": "%`^FY^O1`]",
+    "createdAt": "2022-12-01T01:01:58.081Z",
+    "updatedAt": "2022-06-09T21:57:24.474Z",
+    "price": 93803.29,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "fce09d92-459d-44e0-ad03-b917e6ecfda3",
+    "name": "1.<6.BP?El",
+    "createdAt": "2023-02-08T16:12:47.440Z",
+    "updatedAt": "2022-05-17T11:20:11.991Z",
+    "price": 83775.42,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "689cf5e2-be6a-418e-b96f-026f7f67e491",
+    "name": "Yd=\"r&jE<9",
+    "createdAt": "2022-06-24T21:27:41.620Z",
+    "updatedAt": "2022-09-12T17:53:17.773Z",
+    "price": 23408.43,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "5c2b7d19-b1cd-447e-a149-cca26b1307c4",
+    "name": "l$o)A^Xgph",
+    "createdAt": "2022-09-30T00:12:49.428Z",
+    "updatedAt": "2022-08-21T00:09:11.152Z",
+    "price": 63200.93,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "47519400-cc03-481b-9143-5657f64fdd55",
+    "name": "pSxY>)XJd\\",
+    "createdAt": "2022-12-22T22:49:34.126Z",
+    "updatedAt": "2022-08-18T00:41:37.356Z",
+    "price": 72696.07,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "9bb15f13-1f78-4074-adea-0635d18a08e3",
+    "name": "01,Jg4}y,S",
+    "createdAt": "2023-04-09T11:20:11.259Z",
+    "updatedAt": "2022-06-12T20:39:08.381Z",
+    "price": 92969.26,
+    "location": "main_office"
+  },
+  {
+    "uuid": "2f1668d7-c51f-42d6-b659-e8b7e6dcf15a",
+    "name": "Id$(58h\"=C",
+    "createdAt": "2023-02-15T17:01:09.331Z",
+    "updatedAt": "2022-08-21T01:14:30.235Z",
+    "price": 97289.67,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "99e6d242-cb2e-45ab-9865-626c3c9cf754",
+    "name": "#HC0-y29Z@",
+    "createdAt": "2022-06-17T00:56:19.707Z",
+    "updatedAt": "2022-12-09T18:38:38.407Z",
+    "price": 67742.47,
+    "location": "main_office"
+  },
+  {
+    "uuid": "f3b53564-50de-42aa-a9f2-af2a1a55ab35",
+    "name": "k#n#%yY\"&q",
+    "createdAt": "2022-08-18T11:05:12.495Z",
+    "updatedAt": "2022-10-23T18:55:53.450Z",
+    "price": 95762.88,
+    "location": "main_office"
+  },
+  {
+    "uuid": "c22aa118-493a-4f84-affb-47a701f566e0",
+    "name": "}E'.i@ki.5",
+    "createdAt": "2023-04-13T19:22:59.559Z",
+    "updatedAt": "2022-06-10T02:55:28.389Z",
+    "price": 97502.03,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "ccd89cd1-628c-4798-b307-e7aaaaeafb9c",
+    "name": "]o'afe(vxp",
+    "createdAt": "2023-03-15T02:31:40.414Z",
+    "updatedAt": "2023-04-04T09:36:04.351Z",
+    "price": 86693.52,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "b7075948-ec30-4279-8e89-259c544a582d",
+    "name": "-V{(U`.|c]",
+    "createdAt": "2022-09-11T16:15:10.590Z",
+    "updatedAt": "2023-01-02T23:29:43.806Z",
+    "price": 30662.27,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "fc58c547-a1fb-488e-bc2c-7bc539a2899e",
+    "name": "Yn4jecrwS:",
+    "createdAt": "2023-01-09T22:42:22.180Z",
+    "updatedAt": "2022-12-06T23:55:58.935Z",
+    "price": 9745.01,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "00fd9551-9513-4a67-ae6c-8ed3356ce44e",
+    "name": ".iM]ynK'IQ",
+    "createdAt": "2023-03-26T12:00:28.771Z",
+    "updatedAt": "2023-04-07T02:19:06.954Z",
+    "price": 76883.4,
+    "location": "main_office"
+  },
+  {
+    "uuid": "5998e6fc-5a4a-48dc-a7d0-800461567982",
+    "name": "m!!FECFC9m",
+    "createdAt": "2023-04-23T06:26:58.095Z",
+    "updatedAt": "2023-01-08T20:29:14.683Z",
+    "price": 15728.03,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "b37407f2-cfb3-40ad-83e1-6a98444cc028",
+    "name": "@<gX-C]gt]",
+    "createdAt": "2022-08-08T02:06:56.034Z",
+    "updatedAt": "2023-01-09T12:48:59.674Z",
+    "price": 24709.73,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "8cadeaa6-acfb-48e3-b199-fa2ccb3ce929",
+    "name": ")/s.xdT_Qb",
+    "createdAt": "2022-08-31T18:59:31.278Z",
+    "updatedAt": "2022-09-27T01:00:43.256Z",
+    "price": 21709.81,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "edc89a0c-b880-441d-92ed-4b1cf40cbab3",
+    "name": "|erKB'|E5j",
+    "createdAt": "2023-03-21T00:08:18.639Z",
+    "updatedAt": "2022-10-27T20:41:13.432Z",
+    "price": 22048.84,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "f4e660cc-875e-4e08-ad37-204af2267742",
+    "name": "$GDKV=fYwI",
+    "createdAt": "2022-08-09T03:48:19.568Z",
+    "updatedAt": "2022-10-02T15:00:58.617Z",
+    "price": 46313.32,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "eb5113a6-3a52-473f-b3a5-56189be52ad1",
+    "name": "4@<D>eg:</",
+    "createdAt": "2022-06-03T01:45:25.429Z",
+    "updatedAt": "2022-09-22T05:11:15.088Z",
+    "price": 2879.87,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "bd162114-ed1f-4bf2-89b9-e633ee9d3af9",
+    "name": "AY?z9;@&V0",
+    "createdAt": "2022-12-22T16:06:31.826Z",
+    "updatedAt": "2023-04-03T06:27:17.773Z",
+    "price": 57325.2,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "6cc50c3c-f8b7-4235-9648-68a935432d39",
+    "name": "L7F:P{#_N}",
+    "createdAt": "2023-03-23T17:30:17.629Z",
+    "updatedAt": "2022-11-04T17:34:53.168Z",
+    "price": 8076.43,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "c0c416b5-76c3-4c1e-84a9-69bc10353a34",
+    "name": "D6!zywOb}o",
+    "createdAt": "2023-01-23T20:23:09.335Z",
+    "updatedAt": "2022-09-27T09:19:23.978Z",
+    "price": 72047.1,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "9200a737-a68d-4a7c-993e-bc7af8df1155",
+    "name": "u/I)}qs3z4",
+    "createdAt": "2022-07-02T05:17:54.831Z",
+    "updatedAt": "2022-06-08T07:28:40.809Z",
+    "price": 60218.82,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "bc4067d1-2fe2-4cab-bf18-5a22b86a5c57",
+    "name": ";Uy5_EK`'o",
+    "createdAt": "2022-05-30T08:47:01.410Z",
+    "updatedAt": "2022-07-16T21:19:12.978Z",
+    "price": 99176,
+    "location": "main_office"
+  },
+  {
+    "uuid": "0abafd84-c759-427f-b429-d09782d7ad7b",
+    "name": "sraj`Fzbj9",
+    "createdAt": "2022-05-10T14:40:01.549Z",
+    "updatedAt": "2023-02-28T21:30:52.066Z",
+    "price": 16890.91,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "5a8e17a2-c336-4d34-be76-d8a97c1a8020",
+    "name": "+r6tIQW>Ho",
+    "createdAt": "2022-05-11T22:09:28.875Z",
+    "updatedAt": "2022-11-17T15:05:46.404Z",
+    "price": 83717.48,
+    "location": "main_office"
+  },
+  {
+    "uuid": "3d889cc7-a963-4ae2-aca6-9f40fd639aec",
+    "name": "mG/(>\"v7UY",
+    "createdAt": "2022-08-01T07:26:58.651Z",
+    "updatedAt": "2022-10-26T15:04:45.517Z",
+    "price": 51369.69,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "4c50c5ca-53f7-4f58-adda-f7ac8a2b3edc",
+    "name": "W!ZH%S9Z=y",
+    "createdAt": "2023-04-03T15:38:04.809Z",
+    "updatedAt": "2022-08-08T16:57:14.323Z",
+    "price": 19180.36,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "06ab5d3e-0963-4f29-8927-ea70e615b448",
+    "name": "6f#%l==s%#",
+    "createdAt": "2022-09-14T02:28:58.366Z",
+    "updatedAt": "2022-07-17T14:05:44.321Z",
+    "price": 86338.81,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "3b2742f9-d585-4039-a826-e68e5b27e393",
+    "name": "sZWg;y}?tC",
+    "createdAt": "2022-07-25T06:23:31.960Z",
+    "updatedAt": "2023-03-16T21:26:34.816Z",
+    "price": 40312.27,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "ee52412f-5930-4313-ba60-a0952711de97",
+    "name": "u1!)#!}pa\"",
+    "createdAt": "2023-03-13T13:22:19.663Z",
+    "updatedAt": "2023-04-11T13:27:49.522Z",
+    "price": 61173.97,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "5f021a3e-8cf8-4fd4-a730-24f3c3516bb9",
+    "name": "M/>-i58`=*",
+    "createdAt": "2022-12-13T20:17:59.738Z",
+    "updatedAt": "2023-01-17T03:35:49.395Z",
+    "price": 6385.19,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "aec988ce-1086-4c96-a5d0-a01da1468b44",
+    "name": ":L0}oct,7Z",
+    "createdAt": "2022-10-01T10:04:03.794Z",
+    "updatedAt": "2022-06-14T13:35:05.037Z",
+    "price": 28823.13,
+    "location": "main_office"
+  },
+  {
+    "uuid": "c78548de-ad02-4292-a20c-f59460a34654",
+    "name": "L$SU7sC@|L",
+    "createdAt": "2022-12-29T09:55:13.258Z",
+    "updatedAt": "2022-08-15T15:11:25.585Z",
+    "price": 92882.32,
+    "location": "main_office"
+  },
+  {
+    "uuid": "626fc440-5df8-4d6e-854e-8de0e9aeb31c",
+    "name": "-eT}6.2JV%",
+    "createdAt": "2023-03-21T16:31:36.474Z",
+    "updatedAt": "2023-01-10T04:59:20.540Z",
+    "price": 43992.24,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "c59a55e4-581c-4347-987a-fa9ddae27bfd",
+    "name": "g8^j,fB1:%",
+    "createdAt": "2023-02-07T12:38:50.530Z",
+    "updatedAt": "2022-07-31T08:09:08.948Z",
+    "price": 92000.44,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "0ff0c734-913a-4a2c-b997-ee47b67eb7c4",
+    "name": "7V*4b(8}\"q",
+    "createdAt": "2022-11-05T19:24:00.711Z",
+    "updatedAt": "2022-10-09T17:41:20.415Z",
+    "price": 33289.41,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "7cb945ca-f20a-4c43-9fbd-82ed6a3deca8",
+    "name": "|t4;wAwJE.",
+    "createdAt": "2022-05-13T02:32:53.211Z",
+    "updatedAt": "2022-07-01T23:45:53.821Z",
+    "price": 34891.55,
+    "location": "main_office"
+  },
+  {
+    "uuid": "1323eb29-1357-4a82-b9b4-88768dba9363",
+    "name": "Y;g-}'ml9(",
+    "createdAt": "2023-01-31T05:19:42.295Z",
+    "updatedAt": "2022-07-05T06:36:44.257Z",
+    "price": 35246.5,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "be2ad8b9-a8be-4ce8-99de-2423138bc398",
+    "name": "J.WZe\"QXE5",
+    "createdAt": "2023-02-06T21:31:15.443Z",
+    "updatedAt": "2023-01-18T08:40:05.202Z",
+    "price": 46323.82,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "77d1046d-cc1a-4a4f-ada2-c63f7b5e244c",
+    "name": "TBpg9}uj9t",
+    "createdAt": "2023-02-21T13:43:01.018Z",
+    "updatedAt": "2022-05-06T15:22:26.240Z",
+    "price": 79884.57,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "c23ce8bb-784b-4a34-a4eb-1af90120bde7",
+    "name": "B_?'s`[)F[",
+    "createdAt": "2023-01-28T23:28:08.392Z",
+    "updatedAt": "2022-12-24T18:28:17.163Z",
+    "price": 77781.34,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "8933e414-d210-48ae-aa96-f4d202dd1a43",
+    "name": "<zKJ&JB\"KS",
+    "createdAt": "2022-05-14T07:30:58.227Z",
+    "updatedAt": "2022-12-02T05:30:39.107Z",
+    "price": 55747.21,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "2bdce944-8e3e-4929-98f8-ec276314c978",
+    "name": "CaZuKd_/&l",
+    "createdAt": "2022-08-14T15:51:01.928Z",
+    "updatedAt": "2022-10-25T11:42:13.352Z",
+    "price": 53609,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "1f0e71cb-8f11-4eaf-8c05-94c92cc0f639",
+    "name": "SR`yn_C7y)",
+    "createdAt": "2023-02-15T07:52:58.336Z",
+    "updatedAt": "2022-10-23T06:30:08.944Z",
+    "price": 24581.52,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "c85eb937-5d44-48b0-b759-fc7a9f0e5c8e",
+    "name": "aLLQka;Gm9",
+    "createdAt": "2023-04-27T10:08:03.245Z",
+    "updatedAt": "2022-11-01T15:36:41.704Z",
+    "price": 48680.28,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "7f6d837a-d984-40a7-824b-2fb3d883b7b1",
+    "name": "gV[{hQ^FxU",
+    "createdAt": "2022-11-18T03:18:31.970Z",
+    "updatedAt": "2022-10-17T16:38:06.894Z",
+    "price": 19857.01,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "ed29742a-6b5f-4940-95ce-0ec99311e8c0",
+    "name": "POBK0i^ZRL",
+    "createdAt": "2023-02-14T02:13:13.187Z",
+    "updatedAt": "2022-08-06T23:47:57.845Z",
+    "price": 94469.43,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "f5c6a18c-c2b9-4ab5-ac88-290f54d559db",
+    "name": "1$(yc&G@Z1",
+    "createdAt": "2023-03-30T19:17:58.534Z",
+    "updatedAt": "2022-09-12T04:32:26.227Z",
+    "price": 98955.7,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "b9bcf077-0834-42b0-90cb-7d83f9010ac1",
+    "name": "Uq[cDepu14",
+    "createdAt": "2023-05-02T17:49:54.039Z",
+    "updatedAt": "2022-10-18T03:40:06.819Z",
+    "price": 3341.9,
+    "location": "main_office"
+  },
+  {
+    "uuid": "f9dd8d0e-5072-44cf-b1fa-8040da514a7c",
+    "name": "x6O3iy?9P\\",
+    "createdAt": "2022-10-28T02:02:31.628Z",
+    "updatedAt": "2023-04-20T21:41:29.171Z",
+    "price": 23881.75,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "84f7093c-7118-41d5-a1da-bc376a510b76",
+    "name": "|c}*\\XJXFu",
+    "createdAt": "2022-08-25T08:56:34.528Z",
+    "updatedAt": "2023-04-29T18:28:19.936Z",
+    "price": 37201.11,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "0fa60abd-d9de-4a85-b800-cfd3b8db4ae4",
+    "name": "ThqwE+NjA`",
+    "createdAt": "2022-07-15T03:04:13.623Z",
+    "updatedAt": "2023-04-08T05:00:10.553Z",
+    "price": 42330.75,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "cdf74343-0c74-434c-aee1-13acfc7874e7",
+    "name": "wT3Q!R/7XK",
+    "createdAt": "2022-08-09T05:25:21.003Z",
+    "updatedAt": "2022-11-03T02:34:03.734Z",
+    "price": 89631.38,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "b697dca3-fc20-4dbc-b0c1-34661ac58f8d",
+    "name": "v&qFRoxn:Y",
+    "createdAt": "2023-02-04T01:24:35.918Z",
+    "updatedAt": "2022-06-26T05:07:16.126Z",
+    "price": 93111.95,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "a02b9d00-4b11-4f6f-93a4-f754e03cfd9f",
+    "name": "ISRR0s^1-{",
+    "createdAt": "2023-04-29T18:58:46.537Z",
+    "updatedAt": "2023-02-09T00:09:14.298Z",
+    "price": 42509.04,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "7276abe9-3d4f-456d-84f0-7e4711e6e840",
+    "name": ">g;CmScDV@",
+    "createdAt": "2023-01-22T22:00:06.335Z",
+    "updatedAt": "2022-08-19T14:30:32.347Z",
+    "price": 75144.67,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "2a213aa1-96c7-4fad-ac04-3bb6b63de893",
+    "name": ",scn_1#?bv",
+    "createdAt": "2023-04-11T10:08:57.595Z",
+    "updatedAt": "2022-09-10T18:18:59.391Z",
+    "price": 34837.55,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "1a51c2a1-d642-4015-9043-7d25d65a329f",
+    "name": "&$e>W\"tKzF",
+    "createdAt": "2023-01-24T19:32:11.836Z",
+    "updatedAt": "2022-09-25T16:06:08.208Z",
+    "price": 24080.97,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "24a93025-8e3a-4991-89bc-ccb6c7134745",
+    "name": "Q_f-<JZI51",
+    "createdAt": "2023-04-04T21:12:00.946Z",
+    "updatedAt": "2023-02-14T13:10:15.549Z",
+    "price": 1137.7,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "4bc26bc9-28f0-4660-b7a4-9ca242a83366",
+    "name": "b]G_,Vn6VT",
+    "createdAt": "2022-07-08T02:59:04.511Z",
+    "updatedAt": "2022-07-20T00:57:03.876Z",
+    "price": 72628.8,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "45dc4b2d-5baa-4225-9980-5940efb96b24",
+    "name": "tG]a>zH<3#",
+    "createdAt": "2022-11-04T22:52:43.855Z",
+    "updatedAt": "2022-10-18T17:26:15.416Z",
+    "price": 4746.22,
+    "location": "main_office"
+  },
+  {
+    "uuid": "0e7999f6-a0c0-481e-990f-1c291f62e06f",
+    "name": "\\l')+;$GzN",
+    "createdAt": "2023-02-28T20:17:05.996Z",
+    "updatedAt": "2023-02-17T19:56:21.292Z",
+    "price": 75802.93,
+    "location": "cavea_tbilisi_mall"
+  },
+  {
+    "uuid": "a2bcfdb7-6eec-4247-bf04-74b9a3040f92",
+    "name": "JcyCMvS}@&",
+    "createdAt": "2022-07-21T21:19:41.295Z",
+    "updatedAt": "2022-08-07T07:54:51.331Z",
+    "price": 65403.35,
+    "location": "cavea_city_mall"
+  },
+  {
+    "uuid": "f49132ae-5d95-4c44-9bed-6d2c0f8c4d79",
+    "name": "8W^nZ(FEmo",
+    "createdAt": "2022-11-30T00:16:02.871Z",
+    "updatedAt": "2023-03-19T03:27:26.008Z",
+    "price": 99793.65,
+    "location": "cavea_east_point"
+  },
+  {
+    "uuid": "9942ce26-5bec-4ea3-8843-36ade2f84999",
+    "name": "TLhW5Nsg&z",
+    "createdAt": "2022-09-14T15:24:52.883Z",
+    "updatedAt": "2022-07-01T11:50:17.717Z",
+    "price": 53499.73,
+    "location": "cavea_gallery"
+  },
+  {
+    "uuid": "e9d875e8-6a08-42c4-a3d8-b79bbc2bb5dc",
+    "name": "UT)PZ/j.0?",
+    "createdAt": "2023-01-27T01:03:59.535Z",
+    "updatedAt": "2023-02-20T07:26:15.739Z",
+    "price": 62714.46,
+    "location": "main_office"
+  }
+]
