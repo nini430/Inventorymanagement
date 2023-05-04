@@ -1,3 +1,7 @@
 {
-    "hello":"hello"
+    "table":{
+        "name":"Inventory Name",
+        "location":"Location",
+        "price":"Price (GEL)"
+    }
 }

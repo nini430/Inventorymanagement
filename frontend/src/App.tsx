@@ -8,10 +8,13 @@ function App() {
   return (
     <div>
      <Navbar/>
-      <Routes>
+     <div className='p-4'>
+     <Routes>
         <Route path='/' element={<InventoryTable/>}/>
         <Route path='/add' element={ <AddInventory/>}/>
       </Routes>
+     </div>
+      
     </div>
   )
 }
