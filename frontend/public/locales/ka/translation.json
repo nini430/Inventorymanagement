@@ -2,6 +2,19 @@
     "table":{
         "name":"ნივთის სახელი",
         "location":"ადგილმდებარეობა",
-        "price":"ფასი (ლ)"
+        "price":"ფასი (ლ)",
+        "created_at":"შექმნილია",
+        "updated_at":"განახლებულია",
+        "total_inventory_amount":"ნივთების ჯამური რაოდენობა",
+        "record":"მონაცემი",
+        "prev":"წინა",
+        "next":"შემდეგი"
+    },
+    "location":{
+        "cavea_city_mall":"კავეა სითი მოლი",
+        "cavea_east_point":"კავეა ისთ ფოინთი",
+        "cavea_tbilisi_mall":"კავეა თბილისი მოლი",
+        "main_office":"მთავარი ოფისი",
+        "cavea_gallery":"კავეა გალერეა"
     }
 }

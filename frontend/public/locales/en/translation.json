@@ -2,6 +2,19 @@
     "table":{
         "name":"Inventory Name",
         "location":"Location",
-        "price":"Price (GEL)"
+        "price":"Price (GEL)",
+        "created_at":"Created At",
+        "updated_at":"Updated At",
+        "total_inventory_amount":"Total Inventory Amount",
+        "record":"Rows",
+        "prev":"Previous",
+        "next":"Next"
+    },
+    "location":{
+        "cavea_city_mall":"Cavea City Mall",
+        "cavea_east_point":"Cavea East Point",
+        "cavea_tbilisi_mall":"Cavea Tbilisi Mall",
+        "main_office":"Main Office",
+        "cavea_gallery":"Cavea Gallery"
     }
 }

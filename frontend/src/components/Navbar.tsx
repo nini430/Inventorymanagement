@@ -1,10 +1,12 @@
 import i18next from 'i18next';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import Logo from '../assets/logo.png';
 import useLocales from '../hooks/useLocales';
 import languages from '../utils/langs';
 
 const Navbar = () => {
+  const { t } = useTranslation();
   const { currentLanguageCountryCode, nativeName } = useLocales();
   return (
     <div

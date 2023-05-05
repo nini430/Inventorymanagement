@@ -5,7 +5,8 @@ import {
 } from 'sequelize';
 module.exports = (sequelize:any, DataType:typeof DataTypes) => {
   interface InventoryAttributes {
-    name:string;
+    name_ka:string;
+    name_en:string;
     price:number;
     location:string;
     uuid:string;
@@ -13,7 +14,8 @@ module.exports = (sequelize:any, DataType:typeof DataTypes) => {
   class Inventory extends Model<InventoryAttributes> implements InventoryAttributes {
     static associate(models:any) {
     }
-    name!:string;
+    name_en!:string;
+    name_ka!:string;
     price!:number;
     location!:string
     uuid!:string;
@@ -23,7 +25,15 @@ module.exports = (sequelize:any, DataType:typeof DataTypes) => {
       type:DataType.UUID,
       defaultValue:DataType.UUIDV4
     },
-    name: {
+    name_ka: {
+      type:DataType.STRING,
+      allowNull:false,
+      validate:{
+        notEmpty:{msg:'name_required'},
+        notNull:{msg:'name_required'}
+      }
+    },
+    name_en: {
       type:DataType.STRING,
       allowNull:false,
       validate:{
