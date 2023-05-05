@@ -1,7 +1,7 @@
 import {Request,Response,NextFunction} from 'express'
 import asyncHandler from 'express-async-handler';
 import db from '../models'
-import { QueryType } from '../types/inventories';
+import { BodyType, QueryType } from '../types/inventories';
 
 const INVENTORY_LIMIT='20';
 const INVENTORY_PAGE='1'
@@ -19,5 +19,11 @@ export const getAllInventories=asyncHandler(async(req:Request<{},{},{},QueryType
         const numOfPages=Math.ceil(count/+limit);
 
         return res.status(200).json({data:inventories,prevPage,nextPage,limit:+limit,page:+page,numOfPages,total:count});
+})
+
+export const createInventory=asyncHandler(async(req:Request<{},{},BodyType>,res:Response)=>{
+        const {name_en,name_ka,location,price}=req.body;  
+        const newInventory=await db.Inventory.create({name_en,name_ka,location,price});
+        return res.status(201).json({data:newInventory})
 })
 

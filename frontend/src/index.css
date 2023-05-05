@@ -20,3 +20,8 @@ th, td {
   display: block;
   overflow-x: auto;
 }
+
+a {
+  text-decoration: none;
+  color:inherit;
+}

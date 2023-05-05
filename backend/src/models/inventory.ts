@@ -55,13 +55,17 @@ module.exports = (sequelize:any, DataType:typeof DataTypes) => {
       validate:{
         notEmpty:{msg:'location_required'},
         notNull:{msg:'location_required'},
-        notIn:{args:[['cavea_tbilisi_mall','cavea_city_mall','cavea_east_point','main_office','cavea_gallery']],msg:'location_should_be_one_of_them'}
+        isIn:{args:[['cavea_tbilisi_mall','cavea_city_mall','cavea_east_point','main_office','cavea_gallery']],msg:'location_should_be_one_of_them'}
       }
     }
   }, {
     sequelize,
     modelName: 'Inventory',
     tableName:'inventories',
+    indexes:[
+      {fields:['name_en','name_ka','location'],unique:true},
+      
+    ]
   });
   return Inventory;
 };

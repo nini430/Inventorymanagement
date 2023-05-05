@@ -6,6 +6,7 @@ import { changeNumRows, changePage, getAllInventories } from '../store/inventory
 import useLocales from '../hooks/useLocales';
 import { Names } from '../types/inventories';
 import Loading from '../components/Loading';
+import { Link } from 'react-router-dom';
 
 const InventoryTable = () => {
   const { currentLanguageCode } = useLocales();
@@ -25,8 +26,9 @@ const InventoryTable = () => {
     dispatch(getAllInventories({ page: currentPage,limit:numRows }));
   }, [dispatch, currentPage,numRows]);
   return (
-    <div>
+    <div className='d-flex flex-column'>
       <h1 className="mb-4 text-uppercase">Inventory Management</h1>
+  <button className='mb-2 d-flex gap-2 align-self-end p-2 border-0'><Link to='/add'><i className="bi bi-plus-circle-fill mr-1"></i>{` `}{t('table.add')}</Link></button>
       <div className="table-wrapper mb-2">
       <table className="table border">
         <thead>
@@ -36,6 +38,7 @@ const InventoryTable = () => {
             <th scope="col">{t('table.price')}</th>
             <th scope="col">{t('table.created_at')}</th>
             <th scope="col">{t('table.updated_at')}</th>
+            <th scope="col">{t('table.operations')}</th>
           </tr>
         </thead>
         <tbody>
@@ -51,6 +54,7 @@ const InventoryTable = () => {
                 <td>{item.price}</td>
                 <td>{moment(item.createdAt).format('L')}</td>
                 <td>{moment(item.updatedAt).format('L')}</td>
+                <td><button className='border border-danger text-danger bg-white  p-2 rounded-sm'><i className="bi bi-x-circle-fill text-danger"></i>{` `}{t('table.remove')}</button></td>
               </tr>
             ))
           ) : (

@@ -8,7 +8,10 @@
         "total_inventory_amount":"ნივთების ჯამური რაოდენობა",
         "record":"მონაცემი",
         "prev":"წინა",
-        "next":"შემდეგი"
+        "next":"შემდეგი",
+        "add":"ნივთის დამატება",
+        "operations":"ოპერაციები",
+        "remove":"წაშლა"
     },
     "location":{
         "cavea_city_mall":"კავეა სითი მოლი",

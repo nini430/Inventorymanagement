@@ -54,7 +54,13 @@ module.exports = {
           notIn:{args:[['cavea_tbilisi_mall','cavea_city_mall','cavea_east_point','main_office','cavea_gallery']],msg:'location_should_be_one_of_them'}
         }
       }
-    });
+  },{
+    uniqueKeys:{
+      Items_unique:{
+        fields:['name_en','name_ka','location']
+      }
+    }
+  });
   },
   async down(queryInterface, Sequelize) {
     await queryInterface.dropTable('inventories');

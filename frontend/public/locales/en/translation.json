@@ -8,7 +8,10 @@
         "total_inventory_amount":"Total Inventory Amount",
         "record":"Rows",
         "prev":"Previous",
-        "next":"Next"
+        "next":"Next",
+        "add":"Add Inventory",
+        "operations":"Operations",
+        "remove":"Remove"
     },
     "location":{
         "cavea_city_mall":"Cavea City Mall",
