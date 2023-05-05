@@ -12,6 +12,7 @@ function App() {
      <Routes>
         <Route path='/' element={<InventoryTable/>}/>
         <Route path='/add' element={ <AddInventory/>}/>
+        <Route path='/update/:id' element={<AddInventory/>}/>
       </Routes>
      </div>
       

@@ -1,14 +1,16 @@
 import ReactDOM from 'react-dom/client';
-import {Suspense} from 'react'
+import { Suspense } from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import i18next from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import httpBackend from 'i18next-http-backend';
 import languageDetector from 'i18next-browser-languagedetector';
 import { Provider } from 'react-redux';
+import { ToastContainer } from 'react-toastify';
 
 import App from './App.tsx';
 import store from './store/store.ts';
+import 'react-toastify/dist/ReactToastify.css';
 import 'bootstrap/scss/bootstrap.scss';
 import 'bootstrap/dist/js/bootstrap.js';
 import 'bootstrap-icons/font/bootstrap-icons.min.css';
@@ -33,12 +35,12 @@ i18next
   });
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-  <Suspense fallback={<Loading/>}>
+  <Suspense fallback={<Loading />}>
     <BrowserRouter>
-    <Provider store={store}>
-      <App />
-    </Provider>
-  </BrowserRouter>
+      <Provider store={store}>
+        <App />
+        <ToastContainer />
+      </Provider>
+    </BrowserRouter>
   </Suspense>
-  
 );

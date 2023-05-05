@@ -16,8 +16,10 @@ export interface InventoryInitialState extends BasicInventory {
     getInventoryPending: boolean;
     updateInventoryPending: boolean;
     deleteInventoryPending: boolean;
+    createInventoryPending: boolean;
     currentPage:number;
     numRows:number;
+    errors:any;
     
 }
 
@@ -31,8 +33,11 @@ export interface Inventory {
     updatedAt: Date;
 }
 
+export type  InventoryForm= Omit<Inventory,'createdAt'|'updatedAt'|'uuid'|'price'> & {price:number|string}
+
 export interface getAllInventoriesInput {
     limit?:number;
     page?:number;
 }
 
+export type VoidFunction=()=>void;

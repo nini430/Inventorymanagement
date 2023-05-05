@@ -1,6 +1,9 @@
 {
+    "loading":"Loading...",
     "table":{
         "name":"Inventory Name",
+        "name_en":"Inventory Name in English",
+        "name_ka":"Inventory Name in Georgian",
         "location":"Location",
         "price":"Price (GEL)",
         "created_at":"Created At",
@@ -10,8 +13,12 @@
         "prev":"Previous",
         "next":"Next",
         "add":"Add Inventory",
+        "update":"Update Inventory",
+        "update_short":"Update",
         "operations":"Operations",
-        "remove":"Remove"
+        "remove":"Remove",
+        "choose_location":"Choose Location",
+        "inventory_added":"Inventory Added Succesfully"
     },
     "location":{
         "cavea_city_mall":"Cavea City Mall",

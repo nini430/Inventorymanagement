@@ -5,7 +5,10 @@ import inventoryReducer from './inventoryReducer';
 const store=configureStore({
     reducer:{
         inventory:inventoryReducer
-    }
+    },
+    middleware:getDefaultMiddleware=>getDefaultMiddleware({
+        serializableCheck:false
+    })
 });
 
 export type RootState = ReturnType<typeof store.getState>;
