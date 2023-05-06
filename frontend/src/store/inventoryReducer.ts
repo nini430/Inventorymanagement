@@ -27,17 +27,20 @@ const initialState: InventoryInitialState = {
   numRows: 20,
   errors: {},
   filter: '',
-  sort:'name_en',
-  sortDir:'ASC'
+  sort: 'name_en',
+  sortDir: 'ASC',
 };
 
 export const getAllInventories = createAsyncThunk(
   'inventories/getAllInventories',
-  async ({ limit, page, filter,sort,sortDir }: getAllInventoriesInput, thunkApi) => {
+  async (
+    { limit, page, filter, sort, sortDir }: getAllInventoriesInput,
+    thunkApi
+  ) => {
     try {
       const response = await axiosApiInstance.get<BasicInventory>(
         '/inventories',
-        { params: { limit, page, filter,sort,sortDir } }
+        { params: { limit, page, filter, sort, sortDir } }
       );
       return response.data;
     } catch (err) {
@@ -108,10 +111,27 @@ export const updateInventory = createAsyncThunk(
 
 export const deleteInventory = createAsyncThunk(
   'inventories/deleteInventory',
-  async ({id,currentPage,limit,onSuccess}:{id:string,currentPage:number,limit:number,onSuccess:VoidFunction}, thunkApi) => {
+  async (
+    {
+      id,
+      currentPage,
+      limit,
+      onSuccess,
+    }: {
+      id: string;
+      currentPage: number;
+      limit: number;
+      onSuccess: VoidFunction;
+    },
+    thunkApi
+  ) => {
     try {
-      const response = await axiosApiInstance.delete<{newCurrentPage:number,total:number,lastPage:boolean}>(`/inventories/${id}`,{params:{currentPage,limit}});
-      if(!response.data.lastPage) {
+      const response = await axiosApiInstance.delete<{
+        newCurrentPage: number;
+        total: number;
+        lastPage: boolean;
+      }>(`/inventories/${id}`, { params: { currentPage, limit } });
+      if (!response.data.lastPage) {
         onSuccess();
       }
       return response.data;
@@ -139,12 +159,15 @@ const inventoryReducer = createSlice({
     },
     changeFilter: (state, action: PayloadAction<LocationFilter | ''>) => {
       state.filter = action.payload;
-      state.currentPage=1;
+      state.currentPage = 1;
     },
-    changeSort:(state,action:PayloadAction<{sort:SortOptions,sortDir:SortDirection}>)=>{
-      state.sort=action.payload.sort;
-      state.sortDir=action.payload.sortDir;
-    }
+    changeSort: (
+      state,
+      action: PayloadAction<{ sort: SortOptions; sortDir: SortDirection }>
+    ) => {
+      state.sort = action.payload.sort;
+      state.sortDir = action.payload.sortDir;
+    },
   },
   extraReducers: (builder) => {
     builder.addCase(getAllInventories.pending, (state) => {
@@ -199,10 +222,12 @@ const inventoryReducer = createSlice({
     });
     builder.addCase(deleteInventory.fulfilled, (state, action) => {
       state.deleteInventoryPending = false;
-      state.currentPage=action.payload.newCurrentPage;
-      state.total=action.payload.total;
+      state.currentPage = action.payload.newCurrentPage;
+      state.total = action.payload.total;
       console.log(action.meta.arg);
-      state.data=state.data?.filter(item=>item.uuid!==action.meta.arg.id) as Inventory[];
+      state.data = state.data?.filter(
+        (item) => item.uuid !== action.meta.arg.id
+      ) as Inventory[];
     });
     builder.addCase(deleteInventory.rejected, (state, action) => {
       state.deleteInventoryPending = false;
@@ -210,7 +235,13 @@ const inventoryReducer = createSlice({
   },
 });
 
-export const { changePage, changeNumRows, clearErrors, clearSingleinventory,changeFilter,changeSort} =
-  inventoryReducer.actions;
+export const {
+  changePage,
+  changeNumRows,
+  clearErrors,
+  clearSingleinventory,
+  changeFilter,
+  changeSort,
+} = inventoryReducer.actions;
 
 export default inventoryReducer.reducer;

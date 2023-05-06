@@ -12,7 +12,12 @@ import {
   getAllInventories,
 } from '../store/inventoryReducer';
 import useLocales from '../hooks/useLocales';
-import { LocationFilter, Names, SortDirection, SortOptions } from '../types/inventories';
+import {
+  LocationFilter,
+  Names,
+  SortDirection,
+  SortOptions,
+} from '../types/inventories';
 import Loading from '../components/Loading';
 import { Link } from 'react-router-dom';
 
@@ -31,70 +36,93 @@ const InventoryTable = () => {
     numRows,
     filter,
     sort,
-    sortDir
+    sortDir,
   } = useAppSelector((state) => state.inventory);
   useEffect(() => {
     dispatch(clearErrors());
-    dispatch(changeSort({sort:`name_${currentLanguageCode}` as SortOptions,sortDir:'ASC'}))
-  }, [dispatch,currentLanguageCode]);
+    dispatch(
+      changeSort({
+        sort: `name_${currentLanguageCode}` as SortOptions,
+        sortDir: 'ASC',
+      })
+    );
+  }, [dispatch, currentLanguageCode]);
   useEffect(() => {
     if (currentPage) {
-      dispatch(getAllInventories({ page: currentPage, limit: numRows,filter,sort,sortDir }));
+      dispatch(
+        getAllInventories({
+          page: currentPage,
+          limit: numRows,
+          filter,
+          sort,
+          sortDir,
+        })
+      );
     }
-  }, [dispatch, currentPage, numRows,filter,sort,sortDir]);
-  const handleSort=(e:ChangeEvent<HTMLSelectElement>)=>{
-        const [sort,sortDir]=e.target.value.split('-') as [SortOptions,SortDirection];
-        dispatch(changeSort({sort,sortDir}));
-  }
+  }, [dispatch, currentPage, numRows, filter, sort, sortDir]);
+  const handleSort = (e: ChangeEvent<HTMLSelectElement>) => {
+    const [sort, sortDir] = e.target.value.split('-') as [
+      SortOptions,
+      SortDirection
+    ];
+    dispatch(changeSort({ sort, sortDir }));
+  };
   return (
     <div className="d-flex flex-column">
       <h1 className="mb-4 text-uppercase">Inventory Management</h1>
-      <div className='d-flex justify-content-between mb-2 gap-2'>
-    <div className='d-flex gap-3 align-items:center'>
-    <div className="form-group">
-    <label className='h5'><i className="bi bi-geo-alt-fill"></i>{t('table.location')}</label>
-    <select onChange={e=>dispatch(changeFilter(e.target.value as LocationFilter | ''))} className="form-select">
-    <option  value="">
-              {t('location.all')}
-            </option>
-            <option value="cavea_city_mall">
-              {t('location.cavea_city_mall')}
-            </option>
-            <option value="cavea_east_point">
-              {t('location.cavea_east_point')}
-            </option>
-            <option value="cavea_tbilisi_mall">
-              {t('location.cavea_tbilisi_mall')}
-            </option>
-            <option value="cavea_gallery">{t('location.cavea_gallery')}</option>
-            <option value="main_office">{t('location.main_office')}</option>
-    </select>
-  </div>
-    <div className="form-group">
-    <label className='h5'><i className="bi bi-sort-up"></i>{t('table.sort_by')}</label>
-    <select onChange={handleSort} className="form-select">
-    <option  value={`name_${currentLanguageCode}-ASC`}>
-              {t('table.name_asc')}
-            </option>
-            <option value={`name_${currentLanguageCode}-DESC`}>
-              {t('table.name_desc')}
-            </option>
-            <option value="price-ASC">
-              {t('table.price_asc')}
-            </option>
-            <option value="price-DESC">
-              {t('table.price_desc')}
-            </option>
-    </select>
-  </div>
-    </div>
-      <button className="mb-2 d-flex gap-2 p-2 align-self-end  border-0 ml-auto">
-        <Link to="/add">
-          <i className="bi bi-plus-circle-fill mr-1"></i>
-          {` `}
-          {t('table.add')}
-        </Link>
-      </button>
+      <div className="d-flex justify-content-between mb-2 gap-2">
+        <div className="d-flex gap-3 align-items:center">
+          <div className="form-group">
+            <label className="h5">
+              <i className="bi bi-geo-alt-fill"></i>
+              {t('table.location')}
+            </label>
+            <select
+              onChange={(e) =>
+                dispatch(changeFilter(e.target.value as LocationFilter | ''))
+              }
+              className="form-select"
+            >
+              <option value="">{t('location.all')}</option>
+              <option value="cavea_city_mall">
+                {t('location.cavea_city_mall')}
+              </option>
+              <option value="cavea_east_point">
+                {t('location.cavea_east_point')}
+              </option>
+              <option value="cavea_tbilisi_mall">
+                {t('location.cavea_tbilisi_mall')}
+              </option>
+              <option value="cavea_gallery">
+                {t('location.cavea_gallery')}
+              </option>
+              <option value="main_office">{t('location.main_office')}</option>
+            </select>
+          </div>
+          <div className="form-group">
+            <label className="h5">
+              <i className="bi bi-sort-up"></i>
+              {t('table.sort_by')}
+            </label>
+            <select onChange={handleSort} className="form-select">
+              <option value={`name_${currentLanguageCode}-ASC`}>
+                {t('table.name_asc')}
+              </option>
+              <option value={`name_${currentLanguageCode}-DESC`}>
+                {t('table.name_desc')}
+              </option>
+              <option value="price-ASC">{t('table.price_asc')}</option>
+              <option value="price-DESC">{t('table.price_desc')}</option>
+            </select>
+          </div>
+        </div>
+        <button className="mb-2 d-flex gap-2 p-2 align-self-end  border-0 ml-auto">
+          <Link to="/add">
+            <i className="bi bi-plus-circle-fill mr-1"></i>
+            {` `}
+            {t('table.add')}
+          </Link>
+        </button>
       </div>
       <div className="table-wrapper mb-2">
         <table className="table border">
@@ -121,17 +149,38 @@ const InventoryTable = () => {
                   <td>{item.price}</td>
                   <td>{moment(item.createdAt).format('L')}</td>
                   <td>{moment(item.updatedAt).format('L')}</td>
-                  <td className='d-flex gap-2 justify-content-center'>
+                  <td className="d-flex gap-2 justify-content-center">
                     <Link to={`/update/${item.uuid}`}>
-                    <button className="border border-success text-success bg-white  p-2 rounded-sm">
-                    <i className="bi bi-pencil-square text-success"></i>
-                      {` `}
-                      {t('table.update_short')}
-                    </button></Link>
-                    
-                    <button onClick={()=>dispatch(deleteInventory({id:item.uuid,currentPage,limit:numRows,onSuccess:()=>{
-                      dispatch(getAllInventories({filter,sort,sortDir,limit:numRows,page:currentPage}))
-                    }}))} className="border border-danger text-danger bg-white  p-2 rounded-sm">
+                      <button className="border border-success text-success bg-white  p-2 rounded-sm">
+                        <i className="bi bi-pencil-square text-success"></i>
+                        {` `}
+                        {t('table.update_short')}
+                      </button>
+                    </Link>
+
+                    <button
+                      onClick={() =>
+                        dispatch(
+                          deleteInventory({
+                            id: item.uuid,
+                            currentPage,
+                            limit: numRows,
+                            onSuccess: () => {
+                              dispatch(
+                                getAllInventories({
+                                  filter,
+                                  sort,
+                                  sortDir,
+                                  limit: numRows,
+                                  page: currentPage,
+                                })
+                              );
+                            },
+                          })
+                        )
+                      }
+                      className="border border-danger text-danger bg-white  p-2 rounded-sm"
+                    >
                       <i className="bi bi-x-circle-fill text-danger"></i>
                       {` `}
                       {t('table.remove')}
