@@ -18,13 +18,19 @@
         "operations":"Operations",
         "remove":"Remove",
         "choose_location":"Choose Location",
-        "inventory_added":"Inventory Added Succesfully"
+        "inventory_added":"Inventory Added Succesfully",
+        "sort_by":"Sort By",
+        "name_asc":"Name (a-z)",
+        "name_desc":"Name (z-a)",
+        "price_asc":"Price (lowest to highest)",
+        "price_desc":"Price (highest to lowest)"
     },
     "location":{
         "cavea_city_mall":"Cavea City Mall",
         "cavea_east_point":"Cavea East Point",
         "cavea_tbilisi_mall":"Cavea Tbilisi Mall",
         "main_office":"Main Office",
-        "cavea_gallery":"Cavea Gallery"
+        "cavea_gallery":"Cavea Gallery",
+        "all":"All"
     }
 }

@@ -4,7 +4,6 @@ const errorHandler=(err:any,req:Request,res:Response,next:NextFunction)=>{
     let error:any={...err};
     error.errors=err.message||{};
     error.statusCode=err.statusCode||500;
-    console.log(error);
     if(err.name==='SequelizeValidationError'||err.name==='SequelizeUniqueConstraintError') {
         error.errors={};
         err.errors.forEach((item:any)=>{

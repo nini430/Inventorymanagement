@@ -1,6 +1,9 @@
 export interface QueryType {
     limit:string;
     page:string;
+    filter:string;
+    sort:string;
+    sortDir:string;
 }
 
 export interface BodyType {

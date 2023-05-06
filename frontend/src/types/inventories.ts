@@ -20,8 +20,14 @@ export interface InventoryInitialState extends BasicInventory {
     currentPage:number;
     numRows:number;
     errors:any;
-    
+    filter: LocationFilter | '';
+    sort:SortOptions
+    sortDir:SortDirection
 }
+
+export type SortOptions='name_en'|'name_ka'|'price'
+
+export type SortDirection='ASC' | 'DESC';
 
 export interface Inventory {
     name_en:string;
@@ -33,11 +39,16 @@ export interface Inventory {
     updatedAt: Date;
 }
 
+export type LocationFilter= 'cavea_city_mall' | 'cavea_tbilisi_mall' | 'main_office' | 'cavea_gallery' | 'cavea_east_point';
+
 export type  InventoryForm= Omit<Inventory,'createdAt'|'updatedAt'|'uuid'|'price'> & {price:number|string}
 
 export interface getAllInventoriesInput {
     limit?:number;
     page?:number;
+    filter:LocationFilter | '';
+    sort:SortOptions;
+    sortDir: SortDirection
 }
 
 export type VoidFunction=()=>void;
